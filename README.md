@@ -1,3 +1,4 @@
+
 1. Clone source code on your computer use git clone https://github.com/vladislav1399/test-node.git
 
 2. To install the project, you need to install Node.js and Angular CLI
@@ -27,3 +28,6 @@
 14. cd .. 
 
 15. run npm start 
+
+16. Open in browser http://localhost: and the specified port
+
